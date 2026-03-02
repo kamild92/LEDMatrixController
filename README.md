@@ -1,4 +1,4 @@
-# Analog LED Synth (Arduino + MCP3008)
+# Analog LED Controller (Arduino + MCP3008)
 
 An interactive LED instrument controlled by analog inputs.
 
